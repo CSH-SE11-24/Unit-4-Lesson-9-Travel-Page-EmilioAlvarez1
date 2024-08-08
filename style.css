@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: red !important;
+}
+
+h1 {
+  color: white !important;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  color: white !important;
+  margin-top: 10px !important;
+}
+
+p {
+  color: red !important;
+}
+
+.card {
+  width:75% !important;
+}
+
+#white {
+ color: white !important;
+}
+
